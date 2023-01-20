@@ -7,28 +7,28 @@ gabungkan hasil update branch masing-masing ke dalam branch main
 
 >>>>>> hasil pada branch masing-masing <<<<<<<
 
-nama : xxxxxxx
-TTL : xxxxx
-Asal Daerah : xxxxxxx
-No. HP : xxxxxxx
+nama : Jidan Surya Agmila
+TTL : Tulungagung,4 desember 2002
+Asal Daerah : Tulungagung
+No. HP : 085745300449
 
 ========================
 
 >>>>>> hasil pada branch main <<<<<<<
 
-nama : xxxxxxx
-TTL : xxxxx
-Asal Daerah : xxxxxxx
-No. HP : xxxxxxx
+nama : Jidan Surya Agmila
+TTL : Tulungagung,4Desember 2002
+Asal Daerah : Tulungagung
+No. HP : 085745300449
 
-nama : xxxxxxx
-TTL : xxxxx
-Asal Daerah : xxxxxxx
-No. HP : xxxxxxx
+nama : Jidan Surya Agmila
+TTL : Tulungagung4 desember 2002
+Asal Daerah : Tulungagung
+No. HP : 085745300449
 
-nama : xxxxxxx
-TTL : xxxxx
-Asal Daerah : xxxxxxx
-No. HP : xxxxxxx
+nama : Jidan Surya Agmila
+TTL : Tulungagung4 desember 2002
+Asal Daerah :  Tulungagung
+No. HP : 085745300449
 
 ========================
